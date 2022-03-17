@@ -1,0 +1,25 @@
+.container{
+    display:flex;
+    justify-content:row;
+    flex-wrap: wrap;
+  }
+.card-1 {
+  background-color: rgb(247, 80, 68);
+  width: 150px;
+  height: 150px;
+  margin: 20px;
+}
+.card-2 {
+  background-color: rgb(20, 223, 223);
+  width: 820px;
+  height: 150px;
+  margin: 20px;
+}
+.footer {
+  background-color: rgb(233, 233, 76);
+  width: 1010px;
+  height: 150px;
+  margin: 20px;
+}
+
+
