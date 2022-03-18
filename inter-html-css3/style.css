@@ -1,0 +1,37 @@
+.header {
+    background-color: rgb(4, 100, 12);
+    height: 150px;
+    margin: 30px;
+}
+.container {
+    display:flex;
+    justify-content:space-between;
+
+}
+.picture {
+    display:flex;
+    justify-content: space-around;
+}
+.autumn-trees {
+    width: 300px;
+    height: 400px;
+    margin: 22px;
+}
+.card-1 {
+    background-color: rgb(253, 95, 4);
+    width: 300px;
+    height: 400px;
+    margin:30px;
+}
+.card-2 {
+    background-color: rgb(252, 23, 7);
+    width: 300px;
+    height: 400px;
+    margin:30px;
+}
+.card-3 {
+    background-color: rgb(60, 57, 223);
+    width: 300px;
+    height: 400px;
+    margin:30px;
+}

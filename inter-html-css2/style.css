@@ -1,0 +1,27 @@
+.header {
+    background-color: rgb(165, 20, 194);
+    height: 150px;
+    margin: 20px;
+}
+.container {
+    display:flex;
+    justify-content:space-between;
+}
+.card-1 {
+    background-color: rgb(231, 6, 6);
+    width: 300px;
+    height: 400px;
+    margin:22px;
+}
+.card-2 {
+    background-color: rgb(7, 100, 11);
+    width: 300px;
+    height: 400px;
+    margin:22px;
+}
+.card-3 {
+    background-color: rgb(255, 102, 14);
+    width: 300px;
+    height: 400px;
+    margin:22px;
+}
